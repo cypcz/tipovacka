@@ -1,0 +1,206 @@
+{
+  "1": {
+    "range": "'1. kolo'!D-row:M-row",
+    "start": "2021-06-11T21:00:00.000"
+  },
+  "2": {
+    "range": "'1. kolo'!N-row:W-row",
+    "start": "2021-06-12T15:00:00.000"
+  },
+  "3": {
+    "range": "'1. kolo'!X-row:AG-row",
+    "start": "2021-06-12T18:00:00.000"
+  },
+  "4": {
+    "range": "'1. kolo'!AH-row:AQ-row",
+    "start": "2021-06-12T21:00:00.000"
+  },
+  "5": {
+    "range": "'1. kolo'!AR-row:BA-row",
+    "start": "2021-06-13T15:00:00.000"
+  },
+  "6": {
+    "range": "'1. kolo'!BB-row:BK-row",
+    "start": "2021-06-13T18:00:00.000"
+  },
+  "7": {
+    "range": "'1. kolo'!BL-row:BU-row",
+    "start": "2021-06-13T21:00:00.000"
+  },
+  "8": {
+    "range": "'1. kolo'!BV-row:CE-row",
+    "start": "2021-06-14T15:00:00.000"
+  },
+  "9": {
+    "range": "'1. kolo'!CF-row:CO-row",
+    "start": "2021-06-14T18:00:00.000"
+  },
+  "10": {
+    "range": "'2. kolo'!D-row:M-row",
+    "start": "2021-06-14T21:00:00.000"
+  },
+  "11": {
+    "range": "'2. kolo'!N-row:W-row",
+    "start": "2021-06-15T18:00:00.000"
+  },
+  "12": {
+    "range": "'2. kolo'!X-row:AG-row",
+    "start": "2021-06-15T21:00:00.000"
+  },
+  "13": {
+    "range": "'2. kolo'!AH-row:AQ-row",
+    "start": "2021-06-16T15:00:00.000"
+  },
+  "14": {
+    "range": "'2. kolo'!AR-row:BA-row",
+    "start": "2021-06-16T18:00:00.000"
+  },
+  "15": {
+    "range": "'2. kolo'!BB-row:BK-row",
+    "start": "2021-06-16T21:00:00.000"
+  },
+  "16": {
+    "range": "'2. kolo'!BL-row:BU-row",
+    "start": "2021-06-17T15:00:00.000"
+  },
+  "17": {
+    "range": "'2. kolo'!BV-row:CE-row",
+    "start": "2021-06-17T18:00:00.000"
+  },
+  "18": {
+    "range": "'2. kolo'!CF-row:CO-row",
+    "start": "2021-06-17T21:00:00.000"
+  },
+  "19": {
+    "range": "'3. kolo'!D-row:M-row",
+    "start": "2021-06-18T15:00:00.000"
+  },
+  "20": {
+    "range": "'3. kolo'!N-row:W-row",
+    "start": "2021-06-18T18:00:00.000"
+  },
+  "21": {
+    "range": "'3. kolo'!X-row:AG-row",
+    "start": "2021-06-18T21:00:00.000"
+  },
+  "22": {
+    "range": "'3. kolo'!AH-row:AQ-row",
+    "start": "2021-06-19T15:00:00.000"
+  },
+  "23": {
+    "range": "'3. kolo'!AR-row:BA-row",
+    "start": "2021-06-19T18:00:00.000"
+  },
+  "24": {
+    "range": "'3. kolo'!BB-row:BK-row",
+    "start": "2021-06-19T21:00:00.000"
+  },
+  "25": {
+    "range": "'3. kolo'!BL-row:BU-row",
+    "start": "2021-06-20T18:00:00.000"
+  },
+  "26": {
+    "range": "'3. kolo'!BV-row:CE-row",
+    "start": "2021-06-20T18:00:00.000"
+  },
+  "27": {
+    "range": "'3. kolo'!CF-row:CO-row",
+    "start": "2021-06-21T18:00:00.000"
+  },
+  "28": {
+    "range": "'4. kolo'!D-row:M-row",
+    "start": "2021-06-21T18:00:00.000"
+  },
+  "29": {
+    "range": "'4. kolo'!N-row:W-row",
+    "start": "2021-06-21T21:00:00.000"
+  },
+  "30": {
+    "range": "'4. kolo'!X-row:AG-row",
+    "start": "2021-06-21T21:00:00.000"
+  },
+  "31": {
+    "range": "'4. kolo'!AH-row:AQ-row",
+    "start": "2021-06-22T21:00:00.000"
+  },
+  "32": {
+    "range": "'4. kolo'!AR-row:BA-row",
+    "start": "2021-06-22T21:00:00.000"
+  },
+  "33": {
+    "range": "'4. kolo'!BB-row:BK-row",
+    "start": "2021-06-23T18:00:00.000"
+  },
+  "34": {
+    "range": "'4. kolo'!BL-row:BU-row",
+    "start": "2021-06-23T18:00:00.000"
+  },
+  "35": {
+    "range": "'4. kolo'!BV-row:CE-row",
+    "start": "2021-06-23T21:00:00.000"
+  },
+  "36": {
+    "range": "'4. kolo'!CF-row:CO-row",
+    "start": "2021-06-23T21:00:00.000"
+  },
+  "37": {
+    "range": "'Osmifinále'!D-row:M-row",
+    "start": "2021-06-26T21:00:00.000"
+  },
+  "38": {
+    "range": "'Osmifinále'!N-row:W-row",
+    "start": "2021-06-26T21:00:00.000"
+  },
+  "39": {
+    "range": "'Osmifinále'!X-row:AG-row",
+    "start": "2021-06-27T18:00:00.000"
+  },
+  "40": {
+    "range": "'Osmifinále'!AH-row:AQ-row",
+    "start": "2021-06-27T21:00:00.000"
+  },
+  "41": {
+    "range": "'Osmifinále'!AR-row:BA-row",
+    "start": "2021-06-28T18:00:00.000"
+  },
+  "42": {
+    "range": "'Osmifinále'!BB-row:BK-row",
+    "start": "2021-06-28T21:00:00.000"
+  },
+  "43": {
+    "range": "'Osmifinále'!BL-row:BU-row",
+    "start": "2021-06-29T18:00:00.000"
+  },
+  "44": {
+    "range": "'Osmifinále'!BV-row:CE-row",
+    "start": "2021-06-29T21:00:00.000"
+  },
+  "45": {
+    "range": "'Finále'!D-row:M-row",
+    "start": "2021-07-02T18:00:00.000"
+  },
+  "46": {
+    "range": "'Finále'!N-row:W-row",
+    "start": "2021-07-02T21:00:00.000"
+  },
+  "47": {
+    "range": "'Finále'!X-row:AG-row",
+    "start": "2021-07-03T18:00:00.000"
+  },
+  "48": {
+    "range": "'Finále'!AH-row:AQ-row",
+    "start": "2021-07-03T21:00:00.000"
+  },
+  "49": {
+    "range": "'Finále'!AR-row:BA-row",
+    "start": "2021-07-06T211:00:00.000"
+  },
+  "50": {
+    "range": "'Finále'!BB-row:BK-row",
+    "start": "2021-07-07T211:00:00.000"
+  },
+  "51": {
+    "range": "'Finále'!BL-row:BU-row",
+    "start": "2021-07-11T211:00:00.000"
+  }
+}
